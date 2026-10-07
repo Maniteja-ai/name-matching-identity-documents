@@ -1,0 +1,201 @@
+﻿case_id,doc_1_id,doc_2_id,name_1,name_2,label,category,structural_ambiguity
+C001,C001_A,C001_B,Shri Ramesh Kumar,Ramesh Kumar,match,honorific,no
+C002,C002_A,C002_B,Smt. Anita Sharma,Anita Sharma,match,honorific,no
+C003,C003_A,C003_B,Dr. Meera Nair,Meera Nair,match,honorific,no
+C004,C004_A,C004_B,  Arjun  Singh  ,Arjun Singh,match,spacing,no
+C005,C005_A,C005_B,A.K. Sharma,A K Sharma,match,punctuation,no
+C006,C006_A,C006_B,Pooja Verma,POOJA VERMA,match,case,no
+C007,C007_A,C007_B,Kumari Lakshmi Iyer,Lakshmi Iyer,match,honorific,no
+C008,C008_A,C008_B,Late Mohan Das,Mohan Das,match,honorific,no
+C009,C009_A,C009_B,Kumar Ramesh,Ramesh Kumar,match,reordered_tokens,no
+C010,C010_A,C010_B,Singh Arjun Raj,Arjun Raj Singh,match,reordered_tokens,no
+C011,C011_A,C011_B,Nair Meera Lakshmi,Meera Lakshmi Nair,match,reordered_tokens,no
+C012,C012_A,C012_B,Patel Neha Ramesh,Neha Ramesh Patel,match,reordered_tokens,no
+C013,C013_A,C013_B,Khan Mohammed Asif,Mohammed Asif Khan,match,reordered_tokens,no
+C014,C014_A,C014_B,Das Ananya Roy,Ananya Roy Das,match,reordered_tokens,no
+C015,C015_A,C015_B,Joseph Maria Anna,Anna Maria Joseph,match,reordered_tokens,no
+C016,C016_A,C016_B,Chowdhury Suman Kumar,Suman Kumar Chowdhury,match,reordered_tokens,no
+C017,C017_A,C017_B,S. Kumar,Suresh Kumar,match,initial_expansion,yes
+C018,C018_A,C018_B,R K Sharma,Rajesh Kumar Sharma,match,initial_expansion,yes
+C019,C019_A,C019_B,A.P.J. Abdul Kalam,Abdul Kalam,match,initials_and_omission,yes
+C020,C020_A,C020_B,M. S. Dhoni,Mahendra Singh Dhoni,match,initial_expansion,yes
+C021,C021_A,C021_B,V. Narayan,Vijay Narayan,match,initial_expansion,yes
+C022,C022_A,C022_B,P R Iyer,Priya Radhakrishnan Iyer,match,initial_expansion,yes
+C023,C023_A,C023_B,N. R. Narayana Murthy,Narayana Murthy,match,initials_and_omission,yes
+C024,C024_A,C024_B,K. R. Mehta,Kiran Raj Mehta,match,initial_expansion,yes
+C025,C025_A,C025_B,A. B. Desai,Anand Baldev Desai,match,initial_expansion,yes
+C026,C026_A,C026_B,S K Reddy,Sanjay Krishna Reddy,match,initial_expansion,yes
+C027,C027_A,C027_B,Mohammed Khan,Muhammad Khan,match,transliteration,no
+C028,C028_A,C028_B,Mohammad Ali,Muhammad Ali,match,transliteration,no
+C029,C029_A,C029_B,Mohammed Rahman,Mohammad Rahman,match,transliteration,no
+C030,C030_A,C030_B,Laxmi Devi,Lakshmi Devi,match,transliteration,no
+C031,C031_A,C031_B,Choudhary Pooja,Chowdhary Pooja,match,transliteration,no
+C032,C032_A,C032_B,Choudhary Amit,Chowdhury Amit,match,transliteration,no
+C033,C033_A,C033_B,Dikshit Anil,Dixit Anil,match,transliteration,no
+C034,C034_A,C034_B,Aggarwal Ritu,Agarwal Ritu,match,transliteration,no
+C035,C035_A,C035_B,Sanjay Kumar,Sunjay Kumar,match,spelling_variant,no
+C036,C036_A,C036_B,Yusuf Ahmed,Yousuf Ahmed,match,transliteration,no
+C037,C037_A,C037_B,Hussain Ali,Husain Ali,match,transliteration,no
+C038,C038_A,C038_B,Fathima Begum,Fatima Begum,match,transliteration,no
+C039,C039_A,C039_B,Srinivas Rao,Sreenivas Rao,match,transliteration,no
+C040,C040_A,C040_B,Thiruvengadam Iyer,Tiruvengadam Iyer,match,transliteration,no
+C041,C041_A,C041_B,Gurpreet Singh,Gurprit Singh,match,transliteration,no
+C042,C042_A,C042_B,Kaur Harpreet,Harpreet Kaur,match,reordered_tokens,no
+C043,C043_A,C043_B,Prakash Chand,Prakashchand,match,spacing_variant,no
+C044,C044_A,C044_B,Maqsood Ahmed,Maqsud Ahmad,match,transliteration,no
+C045,C045_A,C045_B,Javed Khan,Javaid Khan,match,transliteration,no
+C046,C046_A,C046_B,Sivakumar R,Siva Kumar R,match,spacing_variant,no
+C047,C047_A,C047_B,Rahul Dev Sharma,Rahul Sharma,match,missing_middle,yes
+C048,C048_A,C048_B,Ananya Rani Das,Ananya Das,match,missing_middle,yes
+C049,C049_A,C049_B,Vijay Kumar Reddy,Vijay Reddy,match,missing_middle,yes
+C050,C050_A,C050_B,Meera Lakshmi Nair,Meera Nair,match,missing_middle,yes
+C051,C051_A,C051_B,Arun Prasad Menon,Arun P Menon,match,middle_initial,yes
+C052,C052_A,C052_B,Neha Ramesh Patel,Neha R Patel,match,middle_initial,yes
+C053,C053_A,C053_B,Suresh Chandra Rao,Suresh C Rao,match,middle_initial,yes
+C054,C054_A,C054_B,Amit Kumar Singh,Amit K Singh,match,middle_initial,yes
+C055,C055_A,C055_B,Priya Kumari Sharma,Priya Sharma,match,missing_middle,yes
+C056,C056_A,C056_B,Mohammed Abdul Rahman,Mohammed Rahman,match,missing_middle,yes
+C057,C057_A,C057_B,Ravi Shankar Prasad,Ravi Prasad,match,missing_middle,yes
+C058,C058_A,C058_B,Kiran Rajesh Iyer,Kiran R Iyer,match,middle_initial,yes
+C059,C059_A,C059_B,Fatima Noor Khan,Fatima Khan,match,missing_middle,yes
+C060,C060_A,C060_B,Sanjay Kumar R,Sanjay Kumar Rao,match,surname_abbreviation,yes
+C061,C061_A,C061_B,Gopalakrishnan Nair,Gopalakrishnan K Nair,match,added_initial,yes
+C062,C062_A,C062_B,S. R. Srinivasan,Srinivasan,match,initials_and_omission,yes
+C063,C063_A,C063_B,Seema Rao,Seema R Rao,match,added_initial,yes
+C064,C064_A,C064_B,M. Karunanidhi,Muthuvel Karunanidhi,match,initial_expansion,yes
+C065,C065_A,C065_B,P. V. Sindhu,Pusarla Venkata Sindhu,match,initial_expansion,yes
+C066,C066_A,C066_B,D. Y. Chandrachud,Dhananjaya Yeshwant Chandrachud,match,initial_expansion,yes
+C067,C067_A,C067_B,Sita Devi W/O Ram Lal,Sita Devi,match,relational_prefix,yes
+C068,C068_A,C068_B,Rohan Kumar S/O Mahesh Kumar,Rohan Kumar,match,relational_prefix,yes
+C069,C069_A,C069_B,Anjali Sharma D/O Rajesh Sharma,Anjali Sharma,match,relational_prefix,yes
+C070,C070_A,C070_B,Shri Om Prakash (Husband: Sita Devi),Om Prakash,match,relational_metadata,yes
+C071,C071_A,C071_B,Kum. Kavita Rao,Kavita Rao,match,honorific_abbreviation,no
+C072,C072_A,C072_B,Sri Venkatesh Reddy,Venkatesh Reddy,match,honorific,no
+C073,C073_A,C073_B,Begum Ayesha Khan,Ayesha Khan,match,honorific,no
+C074,C074_A,C074_B,Md. Imran Ali,Mohammad Imran Ali,match,abbreviation_variant,yes
+C075,C075_A,C075_B,Rahul Sharm,Rahul Sharma,match,minor_typo,no
+C076,C076_A,C076_B,Ankit Patel,Ankit Patle,match,transposition,no
+C077,C077_A,C077_B,Rekha Menon,Rekha Menno,match,minor_typo,no
+C078,C078_A,C078_B,Naveen Kumar,Naveen Kumra,match,transposition,no
+C079,C079_A,C079_B,Sushmita Das,Sushmita Dsa,match,transposition,no
+C080,C080_A,C080_B,Vishal Choudhary,Vishal Chaudhary,match,spelling_variant,no
+C081,C081_A,C081_B,Radhika Iyer,Radhika Aiyer,match,spelling_variant,no
+C082,C082_A,C082_B,Jaspreet Kaur,Jasprit Kaur,match,minor_typo,no
+C083,C083_A,C083_B,Siddharth Roy,Sidharth Roy,match,spelling_variant,no
+C084,C084_A,C084_B,Aishwarya Rai,Aishwarya Ray,match,spelling_variant,no
+C085,C085_A,C085_B,Ritesh Deshmukh,Riteish Deshmukh,match,spelling_variant,no
+C086,C086_A,C086_B,Shivani Ghosh,Shibani Ghosh,match,transliteration,no
+C087,C087_A,C087_B,Venkata Subba Rao,Venkata Subbarao,match,spacing_variant,no
+C088,C088_A,C088_B,Krishnamurthy Iyer,Krishna Murthy Iyer,match,spacing_variant,no
+C089,C089_A,C089_B,Abdul Qadir Khan,Abdul Kadir Khan,match,transliteration,no
+C090,C090_A,C090_B,Sanjay Dutt,Sanjay Dut,match,minor_typo,no
+C091,C091_A,C091_B,Ayesha Siddiqui,Aisha Siddiqui,match,transliteration,no
+C092,C092_A,C092_B,Bharath Kumar,Bharat Kumar,match,transliteration,no
+C093,C093_A,C093_B,Sowmya Reddy,Soumya Reddy,match,transliteration,no
+C094,C094_A,C094_B,Rukmini Devi,Rukmanidevi,match,spacing_variant,no
+C095,C095_A,C095_B,Karthik Subramanian,Kartik Subramanian,match,transliteration,no
+C096,C096_A,C096_B,Hema Malini,Hema Malini,match,exact,no
+C097,C097_A,C097_B,Devendra Fadnavis,Devendra Fadnavis,match,exact,no
+C098,C098_A,C098_B,Zoya Akhtar,Zoya Akhtar,match,exact,no
+C099,C099_A,C099_B,Manoj Bajpayee,Manoj Bajpai,match,transliteration,no
+C100,C100_A,C100_B,Suresh Raina,Suresh Rainaa,match,minor_typo,no
+C101,C101_A,C101_B,Ramesh Kumar,Suresh Kumar,non-match,shared_surname_similar_given,no
+C102,C102_A,C102_B,Anita Sharma,Sunita Sharma,non-match,sibling_like,no
+C103,C103_A,C103_B,Amit Patel,Sumit Patel,non-match,sibling_like,no
+C104,C104_A,C104_B,Rahul Verma,Rohit Verma,non-match,shared_surname,no
+C105,C105_A,C105_B,Neha Gupta,Nisha Gupta,non-match,shared_surname,no
+C106,C106_A,C106_B,Kiran Rao,Kiran Reddy,non-match,different_surname,no
+C107,C107_A,C107_B,Arjun Singh,Varun Singh,non-match,shared_surname,no
+C108,C108_A,C108_B,Pooja Mehta,Poonam Mehta,non-match,shared_surname,no
+C109,C109_A,C109_B,Ravi Kumar,Raju Kumar,non-match,shared_surname,no
+C110,C110_A,C110_B,Sanjay Yadav,Ajay Yadav,non-match,shared_surname,no
+C111,C111_A,C111_B,Meena Iyer,Reena Iyer,non-match,shared_surname_similar_given,no
+C112,C112_A,C112_B,Vikram Das,Vinod Das,non-match,shared_surname,no
+C113,C113_A,C113_B,Kavita Rao,Savita Rao,non-match,sibling_like,no
+C114,C114_A,C114_B,Mohammed Khan,Mohammed Ali,non-match,different_surname,no
+C115,C115_A,C115_B,Ayesha Begum,Ayesha Khan,non-match,different_surname,no
+C116,C116_A,C116_B,S. Kumar,Sanjay Kumar,non-match,ambiguous_initial,yes
+C117,C117_A,C117_B,R. K. Sharma,Rajesh Kishore Sharma,non-match,ambiguous_initial,yes
+C118,C118_A,C118_B,A. Sharma,Anita Sharma,non-match,ambiguous_initial,yes
+C119,C119_A,C119_B,M. Singh,Mahesh Singh,non-match,ambiguous_initial,yes
+C120,C120_A,C120_B,K. Patel,Kiran Patel,non-match,ambiguous_initial,yes
+C121,C121_A,C121_B,Suresh Kumar,R. Kumar,non-match,initial_not_proven,yes
+C122,C122_A,C122_B,Ramesh K. Sharma,Rakesh Sharma,non-match,similar_but_distinct_given,no
+C123,C123_A,C123_B,Amit Kumar Singh,Sumit K Singh,non-match,conflicting_given_name,no
+C124,C124_A,C124_B,Neha R. Patel,Reha R Patel,non-match,similar_but_distinct_given,no
+C125,C125_A,C125_B,Vijay Kumar,Ajay Kumar,non-match,shared_surname,no
+C126,C126_A,C126_B,Ramesh Kumar,Ramesh Kumari,non-match,near_prefix,no
+C127,C127_A,C127_B,Kavita Sharma,Kamini Sharma,non-match,shared_surname_distinct_given,no
+C128,C128_A,C128_B,Dikshit Anil,Dixit Sunil,non-match,shared_phonetic_surname,no
+C129,C129_A,C129_B,Agarwal Ritu,Aggarwal Rina,non-match,similar_surname,no
+C130,C130_A,C130_B,Mohammed Arif,Mohammed Asif,non-match,similar_given_names,no
+C131,C131_A,C131_B,Yusuf Ahmed,Yousuf Alam,non-match,phonetic_partial_overlap,no
+C132,C132_A,C132_B,Fathima Begum,Fatima Bano,non-match,transliteration_plus_distinct_surname,no
+C133,C133_A,C133_B,Choudhary Amit,Chowdhary Sumit,non-match,shared_surname_variant,no
+C134,C134_A,C134_B,Lakshmi Devi,Laxmi Kumari,non-match,shared_given_name_variant,no
+C135,C135_A,C135_B,Javed Khan,Javaid Ali,non-match,similar_given_different_surname,no
+C136,C136_A,C136_B,Sanjay Kumar,Sanjiv Kumar,non-match,near_given_name,no
+C137,C137_A,C137_B,Harish Patel,Harish Pal,non-match,near_surname_conflict,no
+C138,C138_A,C138_B,Ritu Mehta,Ritu Malhotra,non-match,same_given_different_surname,no
+C139,C139_A,C139_B,Srinivas Rao,Sreenivas Reddy,non-match,same_given_different_surname,no
+C140,C140_A,C140_B,Gurpreet Singh,Gurprit Kaur,non-match,similar_given_different_surname,no
+C141,C141_A,C141_B,Rahul Sharma,Rahul Kiran Sharma,non-match,subset_ambiguous,yes
+C142,C142_A,C142_B,Neha Patel,Neha Ramesh Patel,non-match,subset_ambiguous,yes
+C143,C143_A,C143_B,Arun Menon,Arun Prasad Menon,non-match,subset_ambiguous,yes
+C144,C144_A,C144_B,Suresh Rao,Suresh Chandra Rao,non-match,subset_ambiguous,yes
+C145,C145_A,C145_B,Priya Sharma,Priya Rani Sharma,non-match,subset_ambiguous,yes
+C146,C146_A,C146_B,Ravi Prasad,Ravi Mohan Prasad,non-match,subset_ambiguous,yes
+C147,C147_A,C147_B,Fatima Khan,Fatima Sahar Khan,non-match,subset_ambiguous,yes
+C148,C148_A,C148_B,Ananya Das,Ananya Priya Das,non-match,subset_ambiguous,yes
+C149,C149_A,C149_B,Vijay Reddy,Vijay Raj Reddy,non-match,subset_ambiguous,yes
+C150,C150_A,C150_B,Meera Nair,Meera Rekha Nair,non-match,subset_ambiguous,yes
+C151,C151_A,C151_B,R. Sharma,Ramesh Kumar Sharma,non-match,initial_underspecified,yes
+C152,C152_A,C152_B,A. K. Sharma,Anil Kumar Sharma,non-match,initial_underspecified,yes
+C153,C153_A,C153_B,S. R. Iyer,Suresh Ram Iyer,non-match,initial_underspecified,yes
+C154,C154_A,C154_B,P. Reddy,Prakash Reddy,non-match,initial_underspecified,yes
+C155,C155_A,C155_B,K. Narayan,Karthik Narayan,non-match,initial_underspecified,yes
+C156,C156_A,C156_B,Sita Devi W/O Ram Lal,Ram Lal,non-match,spouse_name_confusion,no
+C157,C157_A,C157_B,Rohan Kumar S/O Mahesh Kumar,Mahesh Kumar,non-match,father_name_confusion,no
+C158,C158_A,C158_B,Anjali Sharma D/O Rajesh Sharma,Rajesh Sharma,non-match,father_name_confusion,no
+C159,C159_A,C159_B,Smt. Meena Devi W/O Mohan Lal,Mohan Lal,non-match,spouse_name_confusion,no
+C160,C160_A,C160_B,Om Prakash (Husband: Sita Devi),Sita Devi,non-match,related_person_confusion,no
+C161,C161_A,C161_B,Amitabh Bachchan,Amitabh Sharma,non-match,same_given_different_surname,no
+C162,C162_A,C162_B,P. V. Sindhu,P. V. Sinha,non-match,similar_surname,no
+C163,C163_A,C163_B,D. Y. Chandrachud,D. Y. Chandran,non-match,shared_initials_distinct_person,no
+C164,C164_A,C164_B,M. Karunanidhi,M. Karunan,non-match,truncated_name,no
+C165,C165_A,C165_B,Raj Kumar,Kumar Rajesh,non-match,partial_token_overlap,no
+C166,C166_A,C166_B,Ali Khan,Khan Aliya,non-match,partial_token_overlap,no
+C167,C167_A,C167_B,Anand Rao,Anant Rao,non-match,near_given_name,no
+C168,C168_A,C168_B,Manoj Kumar,Manoj Kumari,non-match,near_prefix,no
+C169,C169_A,C169_B,S. R. Srinivasan,S. R. Srinivasan Rao,non-match,subset_ambiguous,yes
+C170,C170_A,C170_B,R. K. Sharma,R. Kumar Sharma,non-match,initial_conflict,no
+C171,C171_A,C171_B,A. P. J. Abdul Kalam,A. P. J. Abdul Khan,non-match,one_component_conflict,no
+C172,C172_A,C172_B,Ravi Shankar Prasad,Ravi Shankar Rao,non-match,same_given_middle_different_surname,no
+C173,C173_A,C173_B,Kiran Raj Iyer,Kiran Rajesh Iyer,non-match,full_vs_prefix_name,yes
+C174,C174_A,C174_B,Sanjay Kumar Rao,Sanjay Kumar Reddy,non-match,surname_conflict,no
+C175,C175_A,C175_B,Suresh Chandra Rao,Suresh Chandra Raju,non-match,surname_conflict,no
+C176,C176_A,C176_B,Meera Lakshmi Nair,Meera Lakshmi Menon,non-match,surname_conflict,no
+C177,C177_A,C177_B,Mohammed Abdul Rahman,Mohammad Abdul Rehman,match,transliteration_multiple_components,no
+C178,C178_A,C178_B,Ayesha Siddiqui,Alisha Siddiqui,non-match,near_given_name,no
+C179,C179_A,C179_B,Sanjay Dutt,Sanjay Das,non-match,surname_conflict,no
+C180,C180_A,C180_B,Sowmya Reddy,Sushma Reddy,non-match,near_given_name,no
+C181,C181_A,C181_B,Rukmini Devi,Rukmini Devi Rao,non-match,subset_ambiguous,yes
+C182,C182_A,C182_B,Karthik Subramanian,Karthik Sundaram,non-match,surname_conflict,no
+C183,C183_A,C183_B,Venkata Subba Rao,Venkata Subba Raju,non-match,surname_conflict,no
+C184,C184_A,C184_B,Krishnamurthy Iyer,Krishnamurthy Nair,non-match,surname_conflict,no
+C185,C185_A,C185_B,Abdul Qadir Khan,Abdul Kadir Ali,non-match,different_surname,no
+C186,C186_A,C186_B,Ritesh Deshmukh,Riteish Desai,non-match,different_surname,no
+C187,C187_A,C187_B,Bharath Kumar,Bharat Kumari,non-match,near_prefix,no
+C188,C188_A,C188_B,Prakash Chand,Prakash Chandra,match,name_form_variant,yes
+C189,C189_A,C189_B,Siddharth Roy,Sidharth Rai,non-match,two_component_variation,no
+C190,C190_A,C190_B,Aishwarya Rai,Aishwarya Rao,non-match,surname_near_match,no
+C191,C191_A,C191_B,Harpreet Singh,Harpreet Kaur,non-match,surname_conflict,no
+C192,C192_A,C192_B,Vikram Singh,Vikram Singh Jr.,non-match,suffix_may_indicate_distinct_person,yes
+C193,C193_A,C193_B,Ramesh Kumar,Ramesh Kumar Jr.,non-match,suffix_may_indicate_distinct_person,yes
+C194,C194_A,C194_B,Shri Rajesh Patel,Shri Rajiv Patel,non-match,near_given_name,no
+C195,C195_A,C195_B,Dr. Neha Sharma,Dr. Reha Sharma,non-match,near_given_name,no
+C196,C196_A,C196_B,Smt. Anita Sharma,Smt. Amita Sharma,non-match,near_given_name,no
+C197,C197_A,C197_B,R. K. Narayan,R. K. Narayanan,match,surname_form_variant,no
+C198,C198_A,C198_B,Mohammed Akbar,Mohammad Akbar,match,transliteration,no
+C199,C199_A,C199_B,Laxmi Narayan,Lakshmi Narayan,match,transliteration,no
+C200,C200_A,C200_B,Suresh Kumar,Suresh Kumar Singh,non-match,subset_ambiguous,yes

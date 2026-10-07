@@ -1,0 +1,201 @@
+case_id,name_1,name_2,label,category,split,trie_score,inverted_score,vector_score,trie_prediction,inverted_prediction,vector_prediction
+C001,Shri Ramesh Kumar,Ramesh Kumar,match,honorific,tuning,0.6667,0.575,0.6667,non-match,non-match,non-match
+C002,Smt. Anita Sharma,Anita Sharma,match,honorific,evaluation,0.6667,0.6117,0.6667,non-match,non-match,non-match
+C003,Dr. Meera Nair,Meera Nair,match,honorific,evaluation,0.6667,0.6168,0.6667,non-match,non-match,non-match
+C004,  Arjun  Singh  ,Arjun Singh,match,spacing,evaluation,1.0,1.0,1.0,match,match,match
+C005,A.K. Sharma,A K Sharma,match,punctuation,evaluation,1.0,1.0,1.0,match,match,match
+C006,Pooja Verma,POOJA VERMA,match,case,tuning,1.0,1.0,1.0,match,match,match
+C007,Kumari Lakshmi Iyer,Lakshmi Iyer,match,honorific,evaluation,0.6667,0.6314,0.6667,non-match,non-match,non-match
+C008,Late Mohan Das,Mohan Das,match,honorific,evaluation,0.6667,0.6045,0.6667,non-match,non-match,non-match
+C009,Kumar Ramesh,Ramesh Kumar,match,reordered_tokens,evaluation,1.0,1.0,1.0,match,match,match
+C010,Singh Arjun Raj,Arjun Raj Singh,match,reordered_tokens,evaluation,1.0,1.0,1.0,match,match,match
+C011,Nair Meera Lakshmi,Meera Lakshmi Nair,match,reordered_tokens,tuning,1.0,1.0,1.0,match,match,match
+C012,Patel Neha Ramesh,Neha Ramesh Patel,match,reordered_tokens,evaluation,1.0,1.0,1.0,match,match,match
+C013,Khan Mohammed Asif,Mohammed Asif Khan,match,reordered_tokens,evaluation,1.0,1.0,1.0,match,match,match
+C014,Das Ananya Roy,Ananya Roy Das,match,reordered_tokens,evaluation,1.0,1.0,1.0,match,match,non-match
+C015,Joseph Maria Anna,Anna Maria Joseph,match,reordered_tokens,evaluation,1.0,1.0,1.0,match,match,match
+C016,Chowdhury Suman Kumar,Suman Kumar Chowdhury,match,reordered_tokens,tuning,1.0,1.0,1.0,match,match,match
+C017,S. Kumar,Suresh Kumar,match,initial_expansion,evaluation,0.775,0.2564,0.5801,non-match,non-match,non-match
+C018,R K Sharma,Rajesh Kumar Sharma,match,initial_expansion,evaluation,0.7,0.1726,0.4447,non-match,non-match,non-match
+C019,A.P.J. Abdul Kalam,Abdul Kalam,match,initials_and_omission,evaluation,0.4,0.4013,0.4,non-match,non-match,non-match
+C020,M. S. Dhoni,Mahendra Singh Dhoni,match,initial_expansion,evaluation,0.7,0.2272,0.438,non-match,non-match,non-match
+C021,V. Narayan,Vijay Narayan,match,initial_expansion,tuning,0.775,0.3202,0.587,non-match,non-match,non-match
+C022,P R Iyer,Priya Radhakrishnan Iyer,match,initial_expansion,evaluation,0.7,0.1694,0.4284,non-match,non-match,non-match
+C023,N. R. Narayana Murthy,Narayana Murthy,match,initials_and_omission,evaluation,0.5,0.5321,0.5,non-match,non-match,non-match
+C024,K. R. Mehta,Kiran Raj Mehta,match,initial_expansion,evaluation,0.7,0.227,0.4641,non-match,non-match,non-match
+C025,A. B. Desai,Anand Baldev Desai,match,initial_expansion,evaluation,0.7,0.194,0.4401,non-match,non-match,non-match
+C026,S K Reddy,Sanjay Krishna Reddy,match,initial_expansion,tuning,0.7,0.1776,0.4364,non-match,non-match,non-match
+C027,Mohammed Khan,Muhammad Khan,match,transliteration,evaluation,0.875,0.2743,0.7059,non-match,non-match,non-match
+C028,Mohammad Ali,Muhammad Ali,match,transliteration,evaluation,0.9375,0.2929,0.8529,non-match,non-match,non-match
+C029,Mohammed Rahman,Mohammad Rahman,match,transliteration,evaluation,0.9375,0.3507,0.8529,non-match,non-match,non-match
+C030,Laxmi Devi,Lakshmi Devi,match,transliteration,evaluation,0.5,0.2991,0.7335,non-match,non-match,non-match
+C031,Choudhary Pooja,Chowdhary Pooja,match,transliteration,tuning,0.9444,0.3156,0.8684,match,non-match,non-match
+C032,Choudhary Amit,Chowdhury Amit,match,transliteration,evaluation,0.8889,0.309,0.7368,non-match,non-match,non-match
+C033,Dikshit Anil,Dixit Anil,match,transliteration,evaluation,0.5,0.3135,0.7335,non-match,non-match,non-match
+C034,Aggarwal Ritu,Agarwal Ritu,match,transliteration,evaluation,0.9375,0.3061,0.9384,non-match,non-match,non-match
+C035,Sanjay Kumar,Sunjay Kumar,match,spelling_variant,evaluation,0.9167,0.2232,0.8077,non-match,non-match,non-match
+C036,Yusuf Ahmed,Yousuf Ahmed,match,transliteration,tuning,0.9167,0.3135,0.8345,non-match,non-match,non-match
+C037,Hussain Ali,Husain Ali,match,transliteration,evaluation,0.9286,0.2672,0.9297,non-match,non-match,non-match
+C038,Fathima Begum,Fatima Begum,match,transliteration,evaluation,0.9286,0.3222,0.8581,non-match,non-match,non-match
+C039,Srinivas Rao,Sreenivas Rao,match,transliteration,evaluation,0.8889,0.2406,0.8338,non-match,non-match,non-match
+C040,Thiruvengadam Iyer,Tiruvengadam Iyer,match,transliteration,evaluation,0.9615,0.2432,0.9234,match,non-match,non-match
+C041,Gurpreet Singh,Gurprit Singh,match,transliteration,tuning,0.875,0.2509,0.8131,non-match,non-match,non-match
+C042,Kaur Harpreet,Harpreet Kaur,match,reordered_tokens,evaluation,1.0,1.0,1.0,match,match,match
+C043,Prakash Chand,Prakashchand,match,spacing_variant,evaluation,0.0,0.0,0.3357,non-match,non-match,non-match
+C044,Maqsood Ahmed,Maqsud Ahmad,match,transliteration,evaluation,0.7571,0.0,0.5592,non-match,non-match,non-match
+C045,Javed Khan,Javaid Khan,match,transliteration,evaluation,0.5,0.2487,0.7509,non-match,non-match,non-match
+C046,Sivakumar R,Siva Kumar R,match,spacing_variant,tuning,0.3333,0.1959,0.5408,non-match,non-match,non-match
+C047,Rahul Dev Sharma,Rahul Sharma,match,missing_middle,evaluation,0.6667,0.5653,0.6667,non-match,non-match,non-match
+C048,Ananya Rani Das,Ananya Das,match,missing_middle,evaluation,0.6667,0.6165,0.6667,non-match,non-match,non-match
+C049,Vijay Kumar Reddy,Vijay Reddy,match,missing_middle,evaluation,0.6667,0.7493,0.6667,non-match,non-match,non-match
+C050,Meera Lakshmi Nair,Meera Nair,match,missing_middle,evaluation,0.6667,0.6626,0.6667,non-match,non-match,non-match
+C051,Arun Prasad Menon,Arun P Menon,match,middle_initial,tuning,0.85,0.5206,0.72,non-match,non-match,non-match
+C052,Neha Ramesh Patel,Neha R Patel,match,middle_initial,evaluation,0.85,0.5241,0.72,non-match,non-match,non-match
+C053,Suresh Chandra Rao,Suresh C Rao,match,middle_initial,evaluation,0.85,0.4109,0.7164,non-match,non-match,non-match
+C054,Amit Kumar Singh,Amit K Singh,match,middle_initial,evaluation,0.85,0.551,0.7247,non-match,non-match,non-match
+C055,Priya Kumari Sharma,Priya Sharma,match,missing_middle,evaluation,0.6667,0.6226,0.6667,non-match,non-match,non-match
+C056,Mohammed Abdul Rahman,Mohammed Rahman,match,missing_middle,tuning,0.6667,0.6811,0.6667,non-match,non-match,non-match
+C057,Ravi Shankar Prasad,Ravi Prasad,match,missing_middle,evaluation,0.6667,0.6367,0.6667,non-match,non-match,non-match
+C058,Kiran Rajesh Iyer,Kiran R Iyer,match,middle_initial,evaluation,0.85,0.5068,0.72,non-match,non-match,non-match
+C059,Fatima Noor Khan,Fatima Khan,match,missing_middle,evaluation,0.6667,0.5869,0.6667,non-match,non-match,non-match
+C060,Sanjay Kumar R,Sanjay Kumar Rao,match,surname_abbreviation,evaluation,0.85,0.4955,0.7394,non-match,non-match,non-match
+C061,Gopalakrishnan Nair,Gopalakrishnan K Nair,match,added_initial,tuning,0.6667,0.7128,0.6667,non-match,non-match,non-match
+C062,S. R. Srinivasan,Srinivasan,match,initials_and_omission,evaluation,0.3333,0.3903,0.3333,non-match,non-match,non-match
+C063,Seema Rao,Seema R Rao,match,added_initial,evaluation,0.6667,0.7162,0.6667,non-match,non-match,non-match
+C064,M. Karunanidhi,Muthuvel Karunanidhi,match,initial_expansion,evaluation,0.775,0.3277,0.57,non-match,non-match,non-match
+C065,P. V. Sindhu,Pusarla Venkata Sindhu,match,initial_expansion,evaluation,0.7,0.2063,0.4327,non-match,non-match,non-match
+C066,D. Y. Chandrachud,Dhananjaya Yeshwant Chandrachud,match,initial_expansion,tuning,0.7,0.1932,0.4201,non-match,non-match,non-match
+C067,Sita Devi W/O Ram Lal,Sita Devi,match,relational_prefix,evaluation,0.3333,0.3082,0.3333,non-match,non-match,non-match
+C068,Rohan Kumar S/O Mahesh Kumar,Rohan Kumar,match,relational_prefix,evaluation,0.3333,0.3679,0.3333,non-match,non-match,non-match
+C069,Anjali Sharma D/O Rajesh Sharma,Anjali Sharma,match,relational_prefix,evaluation,0.3333,0.3751,0.3333,non-match,non-match,non-match
+C070,Shri Om Prakash (Husband: Sita Devi),Om Prakash,match,relational_metadata,evaluation,0.3333,0.3372,0.3333,non-match,non-match,non-match
+C071,Kum. Kavita Rao,Kavita Rao,match,honorific_abbreviation,tuning,0.6667,0.5914,0.6667,non-match,non-match,non-match
+C072,Sri Venkatesh Reddy,Venkatesh Reddy,match,honorific,evaluation,0.6667,0.6134,0.6667,non-match,non-match,non-match
+C073,Begum Ayesha Khan,Ayesha Khan,match,honorific,evaluation,0.6667,0.6324,0.6667,non-match,non-match,non-match
+C074,Md. Imran Ali,Mohammad Imran Ali,match,abbreviation_variant,evaluation,0.6667,0.477,0.739,non-match,non-match,non-match
+C075,Rahul Sharm,Rahul Sharma,match,minor_typo,evaluation,0.9167,0.339,0.8763,non-match,non-match,non-match
+C076,Ankit Patel,Ankit Patle,match,transposition,tuning,0.5,0.3604,0.7273,non-match,non-match,non-match
+C077,Rekha Menon,Rekha Menno,match,minor_typo,evaluation,0.5,0.3307,0.7727,non-match,non-match,non-match
+C078,Naveen Kumar,Naveen Kumra,match,transposition,evaluation,0.5,0.3864,0.7273,non-match,non-match,non-match
+C079,Sushmita Das,Sushmita Dsa,match,transposition,evaluation,0.5,0.3546,0.5714,non-match,non-match,non-match
+C080,Vishal Choudhary,Vishal Chaudhary,match,spelling_variant,evaluation,0.9444,0.3353,0.8755,match,non-match,non-match
+C081,Radhika Iyer,Radhika Aiyer,match,spelling_variant,tuning,0.9,0.3629,0.8518,non-match,non-match,non-match
+C082,Jaspreet Kaur,Jasprit Kaur,match,minor_typo,evaluation,0.875,0.286,0.8131,non-match,non-match,non-match
+C083,Siddharth Roy,Sidharth Roy,match,spelling_variant,evaluation,0.9444,0.3061,0.9451,match,non-match,non-match
+C084,Aishwarya Rai,Aishwarya Ray,match,spelling_variant,evaluation,0.8333,0.3114,0.7143,non-match,non-match,non-match
+C085,Ritesh Deshmukh,Riteish Deshmukh,match,spelling_variant,evaluation,0.9286,0.3223,0.8581,non-match,non-match,non-match
+C086,Shivani Ghosh,Shibani Ghosh,match,transliteration,tuning,0.9286,0.3187,0.8333,non-match,non-match,non-match
+C087,Venkata Subba Rao,Venkata Subbarao,match,spacing_variant,evaluation,0.3333,0.2495,0.5527,non-match,non-match,non-match
+C088,Krishnamurthy Iyer,Krishna Murthy Iyer,match,spacing_variant,evaluation,0.3333,0.1914,0.5487,non-match,non-match,non-match
+C089,Abdul Qadir Khan,Abdul Kadir Khan,match,transliteration,evaluation,0.9333,0.4164,0.8788,non-match,non-match,non-match
+C090,Sanjay Dutt,Sanjay Dut,match,minor_typo,evaluation,0.875,0.2631,0.878,non-match,non-match,non-match
+C091,Ayesha Siddiqui,Aisha Siddiqui,match,transliteration,tuning,0.8333,0.3218,0.7509,non-match,non-match,non-match
+C092,Bharath Kumar,Bharat Kumar,match,transliteration,evaluation,0.9286,0.2062,0.8939,non-match,non-match,non-match
+C093,Sowmya Reddy,Soumya Reddy,match,transliteration,evaluation,0.9167,0.2518,0.8077,non-match,non-match,non-match
+C094,Rukmini Devi,Rukmanidevi,match,spacing_variant,evaluation,0.0,0.0,0.2433,non-match,non-match,non-match
+C095,Karthik Subramanian,Kartik Subramanian,match,transliteration,evaluation,0.9286,0.3243,0.8581,non-match,non-match,non-match
+C096,Hema Malini,Hema Malini,match,exact,tuning,1.0,1.0,1.0,match,match,match
+C097,Devendra Fadnavis,Devendra Fadnavis,match,exact,evaluation,1.0,1.0,1.0,match,match,match
+C098,Zoya Akhtar,Zoya Akhtar,match,exact,evaluation,1.0,1.0,1.0,match,match,match
+C099,Manoj Bajpayee,Manoj Bajpai,match,transliteration,evaluation,0.5,0.2994,0.8027,non-match,non-match,non-match
+C100,Suresh Raina,Suresh Rainaa,match,minor_typo,evaluation,0.9167,0.2538,0.9181,non-match,non-match,non-match
+C101,Ramesh Kumar,Suresh Kumar,non-match,shared_surname_similar_given,tuning,0.5,0.2647,0.6923,non-match,non-match,non-match
+C102,Anita Sharma,Sunita Sharma,non-match,sibling_like,evaluation,0.5,0.2219,0.7927,non-match,non-match,non-match
+C103,Amit Patel,Sumit Patel,non-match,sibling_like,evaluation,0.5,0.2834,0.7513,non-match,non-match,non-match
+C104,Rahul Verma,Rohit Verma,non-match,shared_surname,evaluation,0.5,0.3244,0.5455,non-match,non-match,non-match
+C105,Neha Gupta,Nisha Gupta,non-match,shared_surname,evaluation,0.5,0.3491,0.701,non-match,non-match,non-match
+C106,Kiran Rao,Kiran Reddy,non-match,different_surname,tuning,0.5,0.3744,0.557,non-match,non-match,non-match
+C107,Arjun Singh,Varun Singh,non-match,shared_surname,evaluation,0.5,0.2556,0.6818,non-match,non-match,non-match
+C108,Pooja Mehta,Poonam Mehta,non-match,shared_surname,evaluation,0.5,0.3114,0.7091,non-match,non-match,non-match
+C109,Ravi Kumar,Raju Kumar,non-match,shared_surname,evaluation,0.5,0.2254,0.6667,non-match,non-match,non-match
+C110,Sanjay Yadav,Ajay Yadav,non-match,shared_surname,evaluation,0.8333,0.3651,0.7311,non-match,non-match,non-match
+C111,Meena Iyer,Reena Iyer,non-match,shared_surname_similar_given,tuning,0.9,0.2493,0.8182,non-match,non-match,non-match
+C112,Vikram Das,Vinod Das,non-match,shared_surname,evaluation,0.5,0.2711,0.6254,non-match,non-match,non-match
+C113,Kavita Rao,Savita Rao,non-match,sibling_like,evaluation,0.9167,0.2423,0.8462,non-match,non-match,non-match
+C114,Mohammed Khan,Mohammed Ali,non-match,different_surname,evaluation,0.5,0.3426,0.5,non-match,non-match,non-match
+C115,Ayesha Begum,Ayesha Khan,non-match,different_surname,evaluation,0.5,0.3567,0.5,non-match,non-match,non-match
+C116,S. Kumar,Sanjay Kumar,non-match,ambiguous_initial,tuning,0.775,0.2549,0.5801,non-match,non-match,non-match
+C117,R. K. Sharma,Rajesh Kishore Sharma,non-match,ambiguous_initial,evaluation,0.7,0.1474,0.4364,non-match,non-match,non-match
+C118,A. Sharma,Anita Sharma,non-match,ambiguous_initial,evaluation,0.775,0.247,0.6741,non-match,non-match,non-match
+C119,M. Singh,Mahesh Singh,non-match,ambiguous_initial,evaluation,0.775,0.2717,0.5801,non-match,non-match,non-match
+C120,K. Patel,Kiran Patel,non-match,ambiguous_initial,evaluation,0.775,0.3197,0.587,non-match,non-match,non-match
+C121,Suresh Kumar,R. Kumar,non-match,initial_not_proven,tuning,0.5,0.2743,0.5,non-match,non-match,non-match
+C122,Ramesh K. Sharma,Rakesh Sharma,non-match,similar_but_distinct_given,evaluation,0.6111,0.1826,0.5385,non-match,non-match,non-match
+C123,Amit Kumar Singh,Sumit K Singh,non-match,conflicting_given_name,evaluation,0.5167,0.182,0.5589,non-match,non-match,non-match
+C124,Neha R. Patel,Reha R Patel,non-match,similar_but_distinct_given,evaluation,0.9167,0.4297,0.8519,non-match,non-match,non-match
+C125,Vijay Kumar,Ajay Kumar,non-match,shared_surname,evaluation,0.5,0.2186,0.7513,non-match,non-match,non-match
+C126,Ramesh Kumar,Ramesh Kumari,non-match,near_prefix,tuning,0.9167,0.3423,0.8763,non-match,non-match,non-match
+C127,Kavita Sharma,Kamini Sharma,non-match,shared_surname_distinct_given,evaluation,0.5,0.2192,0.6154,non-match,non-match,non-match
+C128,Dikshit Anil,Dixit Sunil,non-match,shared_phonetic_surname,evaluation,0.0,0.0,0.4848,non-match,non-match,non-match
+C129,Agarwal Ritu,Aggarwal Rina,non-match,similar_surname,evaluation,0.4375,0.0,0.605,non-match,non-match,non-match
+C130,Mohammed Arif,Mohammed Asif,non-match,similar_given_names,evaluation,0.875,0.2711,0.7222,non-match,non-match,non-match
+C131,Yusuf Ahmed,Yousuf Alam,non-match,phonetic_partial_overlap,tuning,0.4167,0.0,0.3847,non-match,non-match,non-match
+C132,Fathima Begum,Fatima Bano,non-match,transliteration_plus_distinct_surname,evaluation,0.4286,0.0,0.4083,non-match,non-match,non-match
+C133,Choudhary Amit,Chowdhary Sumit,non-match,shared_surname_variant,evaluation,0.4444,0.0,0.6197,non-match,non-match,non-match
+C134,Lakshmi Devi,Laxmi Kumari,non-match,shared_given_name_variant,evaluation,0.0,0.0,0.2798,non-match,non-match,non-match
+C135,Javed Khan,Javaid Ali,non-match,similar_given_different_surname,evaluation,0.0,0.0,0.2509,non-match,non-match,non-match
+C136,Sanjay Kumar,Sanjiv Kumar,non-match,near_given_name,tuning,0.8333,0.2232,0.7692,non-match,non-match,non-match
+C137,Harish Patel,Harish Pal,non-match,near_surname_conflict,evaluation,0.5,0.3604,0.7279,non-match,non-match,non-match
+C138,Ritu Mehta,Ritu Malhotra,non-match,same_given_different_surname,evaluation,0.5,0.3114,0.5731,non-match,non-match,non-match
+C139,Srinivas Rao,Sreenivas Reddy,non-match,same_given_different_surname,evaluation,0.3889,0.0,0.3908,non-match,non-match,non-match
+C140,Gurpreet Singh,Gurprit Kaur,non-match,similar_given_different_surname,evaluation,0.375,0.0,0.3131,non-match,non-match,non-match
+C141,Rahul Sharma,Rahul Kiran Sharma,non-match,subset_ambiguous,tuning,0.6667,0.6359,0.6667,non-match,non-match,non-match
+C142,Neha Patel,Neha Ramesh Patel,non-match,subset_ambiguous,evaluation,0.6667,0.6771,0.6667,non-match,non-match,non-match
+C143,Arun Menon,Arun Prasad Menon,non-match,subset_ambiguous,evaluation,0.6667,0.6798,0.6667,non-match,non-match,non-match
+C144,Suresh Rao,Suresh Chandra Rao,non-match,subset_ambiguous,evaluation,0.6667,0.6066,0.6667,non-match,non-match,non-match
+C145,Priya Sharma,Priya Rani Sharma,non-match,subset_ambiguous,evaluation,0.6667,0.5855,0.6667,non-match,non-match,non-match
+C146,Ravi Prasad,Ravi Mohan Prasad,non-match,subset_ambiguous,tuning,0.6667,0.6539,0.6667,non-match,non-match,non-match
+C147,Fatima Khan,Fatima Sahar Khan,non-match,subset_ambiguous,evaluation,0.6667,0.5869,0.6667,non-match,non-match,non-match
+C148,Ananya Das,Ananya Priya Das,non-match,subset_ambiguous,evaluation,0.6667,0.6525,0.6667,non-match,non-match,non-match
+C149,Vijay Reddy,Vijay Raj Reddy,non-match,subset_ambiguous,evaluation,0.6667,0.6445,0.6667,non-match,non-match,non-match
+C150,Meera Nair,Meera Rekha Nair,non-match,subset_ambiguous,evaluation,0.6667,0.6168,0.6667,non-match,non-match,non-match
+C151,R. Sharma,Ramesh Kumar Sharma,non-match,initial_underspecified,tuning,0.5167,0.2281,0.3914,non-match,non-match,non-match
+C152,A. K. Sharma,Anil Kumar Sharma,non-match,initial_underspecified,evaluation,0.7,0.1586,0.4555,non-match,non-match,non-match
+C153,S. R. Iyer,Suresh Ram Iyer,non-match,initial_underspecified,evaluation,0.7,0.183,0.4594,non-match,non-match,non-match
+C154,P. Reddy,Prakash Reddy,non-match,initial_underspecified,evaluation,0.775,0.2993,0.5745,non-match,non-match,non-match
+C155,K. Narayan,Karthik Narayan,non-match,initial_underspecified,evaluation,0.775,0.3399,0.6491,non-match,non-match,non-match
+C156,Sita Devi W/O Ram Lal,Ram Lal,non-match,spouse_name_confusion,tuning,0.3333,0.347,0.3333,non-match,non-match,non-match
+C157,Rohan Kumar S/O Mahesh Kumar,Mahesh Kumar,non-match,father_name_confusion,evaluation,0.3333,0.3584,0.3333,non-match,non-match,non-match
+C158,Anjali Sharma D/O Rajesh Sharma,Rajesh Sharma,non-match,father_name_confusion,evaluation,0.3333,0.3364,0.3333,non-match,non-match,non-match
+C159,Smt. Meena Devi W/O Mohan Lal,Mohan Lal,non-match,spouse_name_confusion,evaluation,0.2857,0.2846,0.2857,non-match,non-match,non-match
+C160,Om Prakash (Husband: Sita Devi),Sita Devi,non-match,related_person_confusion,evaluation,0.4,0.3642,0.4,non-match,non-match,non-match
+C161,Amitabh Bachchan,Amitabh Sharma,non-match,same_given_different_surname,tuning,0.5,0.3809,0.5318,non-match,non-match,non-match
+C162,P. V. Sindhu,P. V. Sinha,non-match,similar_surname,evaluation,0.8889,0.4583,0.806,non-match,non-match,non-match
+C163,D. Y. Chandrachud,D. Y. Chandran,non-match,shared_initials_distinct_person,evaluation,0.6667,0.4758,0.8961,non-match,non-match,non-match
+C164,M. Karunanidhi,M. Karunan,non-match,truncated_name,evaluation,0.5,0.304,0.8499,non-match,non-match,non-match
+C165,Raj Kumar,Kumar Rajesh,non-match,partial_token_overlap,evaluation,0.5,0.2392,0.7621,non-match,non-match,non-match
+C166,Ali Khan,Khan Aliya,non-match,partial_token_overlap,tuning,0.5,0.2637,0.7849,non-match,non-match,non-match
+C167,Anand Rao,Anant Rao,non-match,near_given_name,evaluation,0.9,0.2345,0.8462,non-match,non-match,non-match
+C168,Manoj Kumar,Manoj Kumari,non-match,near_prefix,evaluation,0.9167,0.399,0.8763,non-match,non-match,non-match
+C169,S. R. Srinivasan,S. R. Srinivasan Rao,non-match,subset_ambiguous,evaluation,0.75,0.7869,0.75,non-match,non-match,non-match
+C170,R. K. Sharma,R. Kumar Sharma,non-match,initial_conflict,evaluation,0.85,0.4956,0.7247,non-match,non-match,non-match
+C171,A. P. J. Abdul Kalam,A. P. J. Abdul Khan,non-match,one_component_conflict,tuning,0.8,0.6733,0.8201,non-match,non-match,non-match
+C172,Ravi Shankar Prasad,Ravi Shankar Rao,non-match,same_given_middle_different_surname,evaluation,0.6667,0.5488,0.7016,non-match,non-match,non-match
+C173,Kiran Raj Iyer,Kiran Rajesh Iyer,non-match,full_vs_prefix_name,evaluation,0.6667,0.473,0.8414,non-match,non-match,non-match
+C174,Sanjay Kumar Rao,Sanjay Kumar Reddy,non-match,surname_conflict,evaluation,0.6667,0.4862,0.7047,non-match,non-match,non-match
+C175,Suresh Chandra Rao,Suresh Chandra Raju,non-match,surname_conflict,evaluation,0.6667,0.5038,0.7927,non-match,non-match,non-match
+C176,Meera Lakshmi Nair,Meera Lakshmi Menon,non-match,surname_conflict,tuning,0.6667,0.4924,0.6667,non-match,non-match,non-match
+C177,Mohammed Abdul Rahman,Mohammad Abdul Rehman,match,transliteration_multiple_components,evaluation,0.9028,0.1758,0.7738,non-match,non-match,non-match
+C178,Ayesha Siddiqui,Alisha Siddiqui,non-match,near_given_name,evaluation,0.8333,0.3218,0.7308,non-match,non-match,non-match
+C179,Sanjay Dutt,Sanjay Das,non-match,surname_conflict,evaluation,0.5,0.2967,0.563,non-match,non-match,non-match
+C180,Sowmya Reddy,Sushma Reddy,non-match,near_given_name,evaluation,0.5,0.2518,0.5769,non-match,non-match,non-match
+C181,Rukmini Devi,Rukmini Devi Rao,non-match,subset_ambiguous,tuning,0.6667,0.7273,0.6667,non-match,non-match,non-match
+C182,Karthik Subramanian,Karthik Sundaram,non-match,surname_conflict,evaluation,0.5,0.3114,0.6455,non-match,non-match,non-match
+C183,Venkata Subba Rao,Venkata Subba Raju,non-match,surname_conflict,evaluation,0.6667,0.5364,0.7927,non-match,non-match,non-match
+C184,Krishnamurthy Iyer,Krishnamurthy Nair,non-match,surname_conflict,evaluation,0.5,0.3981,0.5556,non-match,non-match,non-match
+C185,Abdul Qadir Khan,Abdul Kadir Ali,non-match,different_surname,evaluation,0.6,0.1818,0.5455,non-match,non-match,non-match
+C186,Ritesh Deshmukh,Riteish Desai,non-match,different_surname,tuning,0.4286,0.0,0.5409,non-match,non-match,non-match
+C187,Bharath Kumar,Bharat Kumari,non-match,near_prefix,evaluation,0.8452,0.0,0.7702,non-match,non-match,non-match
+C188,Prakash Chand,Prakash Chandra,match,name_form_variant,evaluation,0.5,0.3069,0.8503,non-match,non-match,non-match
+C189,Siddharth Roy,Sidharth Rai,non-match,two_component_variation,evaluation,0.4444,0.0,0.5166,non-match,non-match,non-match
+C190,Aishwarya Rai,Aishwarya Rao,non-match,surname_near_match,evaluation,0.8333,0.3656,0.7143,non-match,non-match,non-match
+C191,Harpreet Singh,Harpreet Kaur,non-match,surname_conflict,tuning,0.5,0.3744,0.5,non-match,non-match,non-match
+C192,Vikram Singh,Vikram Singh Jr.,non-match,suffix_may_indicate_distinct_person,evaluation,0.6667,0.6185,0.6667,non-match,non-match,non-match
+C193,Ramesh Kumar,Ramesh Kumar Jr.,non-match,suffix_may_indicate_distinct_person,evaluation,0.6667,0.5527,0.6667,non-match,non-match,non-match
+C194,Shri Rajesh Patel,Shri Rajiv Patel,non-match,near_given_name,evaluation,0.6667,0.4648,0.806,non-match,non-match,non-match
+C195,Dr. Neha Sharma,Dr. Reha Sharma,non-match,near_given_name,evaluation,0.9167,0.4564,0.8519,non-match,non-match,non-match
+C196,Smt. Anita Sharma,Smt. Amita Sharma,non-match,near_given_name,tuning,0.9333,0.4296,0.8485,non-match,non-match,non-match
+C197,R. K. Narayan,R. K. Narayanan,match,surname_form_variant,evaluation,0.9259,0.4156,0.9717,non-match,non-match,non-match
+C198,Mohammed Akbar,Mohammad Akbar,match,transliteration,evaluation,0.9375,0.3797,0.8529,non-match,non-match,non-match
+C199,Laxmi Narayan,Lakshmi Narayan,match,transliteration,evaluation,0.5,0.3251,0.7335,non-match,non-match,non-match
+C200,Suresh Kumar,Suresh Kumar Singh,non-match,subset_ambiguous,evaluation,0.6667,0.6504,0.6667,non-match,non-match,non-match
